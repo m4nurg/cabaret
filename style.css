@@ -1,0 +1,39 @@
+* {
+    background-color: rgb(53, 117, 177);
+    margin-top: 3%;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.texto {
+    color: #2132ca;
+    font-size: 100px;
+}
+
+.des {
+    color: #2132ca;
+    font-size: 50px;
+}
+
+.btn{
+    text-decoration: none;
+    padding: 4px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: helvetica;
+    font-weight: 300;
+    font-size: 50px;
+    font-style: italic;
+    color: #2132ca;
+    background-color: #576ead;
+    border-radius: 15px;
+    border: 3px double #2132ca;
+  }
+.btn:hover{
+    opacity: 0.6;
+    text-decoration: none;
+  }
+
+.nombre {
+    color: #2132ca;
+}
